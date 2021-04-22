@@ -8,3 +8,4 @@
 "seed1.bitshares.im:1776",           // clone          (USA)
 "seed.bitshares.org:666",            // bitshares.org  (France)
 "seeds.btsnodes.com:1776",           // Community
+"148.163.53.122:1776",               // Brian          (USA)
